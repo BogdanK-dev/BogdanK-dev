@@ -1,7 +1,7 @@
 <img src="assets/header.svg" width="100%" alt="Bogdan K. Bots. CRM. Websites. Shipped.">
 
-**Builder. Qazaqstan.**
-Telegram bots. Business CRM. Websites.
+**Builder. Qazaqstan.**<br>
+Telegram bots. Business CRM. Websites.<br>
 No fluff. Working software.
 
 ### WORK
