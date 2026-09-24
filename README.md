@@ -1,4 +1,4 @@
-<img src="assets/header.svg" width="100%" alt="Bogdan K.">
+<img src="assets/header.svg?v=2" width="100%" alt="Bogdan K.">
 
 **Builder. Qazaqstan.**<br>
 Telegram bots. Business CRM. Websites.<br>
@@ -8,4 +8,4 @@ No fluff. Working software.
 
 <img src="assets/stack.svg" width="100%" alt="TypeScript, React, Node.js, Python, SQLite, OpenCV, HTML/CSS">
 
-<img src="assets/footer.svg" width="100%" alt="LUME INC., 2026">
+<img src="assets/footer.svg?v=2" width="100%" alt="LUME INC., 2026">
