@@ -2,6 +2,6 @@
 
 ### STACK
 
-<img src="assets/stack.svg?v=3" width="100%" alt="Full stack. Languages: TypeScript, JavaScript, Python, C++, Swift, Kotlin, SQL, Bash, HTML/CSS. Frontend: React, Next.js, Vite, Tailwind, Zustand, PWA. Backend: Node.js, Express, REST API, WebSocket, Zod, JWT. Apps: React Native, Expo, iOS, Android, Gradle, Electron. Data: SQLite, NumPy, OpenCV, Pillow, Tesseract OCR, pypdf. Security: end-to-end encryption, X3DH, Double Ratchet, Ed25519, TweetNaCl. Automation: Telegram bots, aiogram, Puppeteer. Testing: Playwright, Vitest, smoke tests. DevOps: Docker, Nginx, Linux, systemd, GitHub Actions, Vercel, Render. Tools: Git, GitHub, npm, Claude Code.">
+<img src="assets/stack.svg?v=4" width="100%" alt="Stack. Core: TypeScript, Python, React, Node.js, React Native, end-to-end encryption. Languages: TypeScript, Python, Kotlin, Swift, C++, SQL. Security: end-to-end encryption, X3DH, Double Ratchet. Frontend: React, Next.js, Tailwind. Backend: Node.js, Express, WebSocket, SQLite. Mobile: React Native, Expo, iOS, Android. DevOps: Docker, Nginx, Linux, GitHub Actions. Automation and QA: Telegram bots, Playwright. Vision: OpenCV, OCR.">
 
 <img src="assets/footer.svg?v=2" width="100%" alt="LUME INC., 2026">
